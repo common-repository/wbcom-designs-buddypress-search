@@ -1,0 +1,1197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wbcom Designs - BuddyPress Search\n"
+"POT-Creation-Date: 2022-02-17 17:15+0530\n"
+"PO-Revision-Date: 2022-02-17 17:16+0530\n"
+"Last-Translator: Varun Dubey <varun@wbcomdesigns.com>\n"
+"Language-Team: Varun Dubey <varun@wbcomdesigns.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: buddypress-search.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin/class-buddypress-search-admin.php:112
+#, fuzzy
+msgid "WB Plugins"
+msgstr "Plug-ins WB"
+
+#: admin/class-buddypress-search-admin.php:113
+#, fuzzy
+msgid "General"
+msgstr "Geral"
+
+#: admin/class-buddypress-search-admin.php:115
+#, fuzzy
+msgid "BuddyPress Search Setting Page"
+msgstr "Página de configuração da pesquisa BuddyPress"
+
+#: admin/class-buddypress-search-admin.php:115
+#: admin/inc/bpsearch-welcome-page.php:16
+#, fuzzy
+msgid "BuddyPress Search"
+msgstr "Busca BuddyPress"
+
+#: admin/class-buddypress-search-admin.php:133
+#, fuzzy
+msgid "BuddyPress Search Settings"
+msgstr "Configurações de pesquisa BuddyPress"
+
+#: admin/class-buddypress-search-admin.php:140
+#, fuzzy
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: admin/class-buddypress-search-admin.php:141
+#, fuzzy
+msgid "Search Components"
+msgstr "Pesquisar Componentes"
+
+#: admin/class-buddypress-search-admin.php:142
+#, fuzzy
+msgid "Enable Post/Pages"
+msgstr "Habilitar correio/páginas"
+
+#: admin/class-buddypress-search-admin.php:143
+#, fuzzy
+msgid "Live Search Settings"
+msgstr "Configurações de Pesquisa em Tempo Real"
+
+#: admin/inc/bpsearch-bp-search.php:36
+#, fuzzy
+msgid "Search the following BuddyPress components."
+msgstr "Pesquise os seguintes componentes BuddyPress."
+
+#: admin/inc/bpsearch-bp-search.php:40
+#, fuzzy
+msgid "Enable Search Components"
+msgstr "Habilitar componentes de busca"
+
+#: admin/inc/bpsearch-bp-search.php:46
+#, fuzzy
+msgid "Search in buddypress activities?"
+msgstr "Pesquisa em atividades BuddyPress?"
+
+#: admin/inc/bpsearch-bp-search.php:52
+#, fuzzy
+msgid "Search in buddypress groups?"
+msgstr "Pesquisa em grupos BuddyPress?"
+
+#: admin/inc/bpsearch-bp-search.php:58
+#, fuzzy
+msgid "Search in public groups?"
+msgstr "Busca em grupos públicos?"
+
+#: admin/inc/bpsearch-bp-search.php:64
+#, fuzzy
+msgid "Search in private groups?"
+msgstr "Busca em grupos privados?"
+
+#: admin/inc/bpsearch-bp-search.php:70
+#, fuzzy
+msgid "Search in hidden groups?"
+msgstr "Busca em grupos ocultos?"
+
+#: admin/inc/bpsearch-bp-search.php:76
+#: includes/buddypress-search-functions.php:471
+#, fuzzy
+msgid "Members"
+msgstr "Membros"
+
+#: admin/inc/bpsearch-bp-search.php:81
+#, fuzzy
+msgid "WordPress User Fields"
+msgstr "Campos de usuário do WordPress"
+
+#: admin/inc/bpsearch-bp-search.php:98
+#, fuzzy
+msgid "Xprofile Fields"
+msgstr "Mostrar Campos xProfile"
+
+#: admin/inc/bpsearch-live-search-settings.php:25
+#, fuzzy
+msgid "Enable Autocomplete"
+msgstr "Ativar Autocompletar"
+
+#: admin/inc/bpsearch-live-search-settings.php:32
+#, fuzzy
+msgid "Number of Results"
+msgstr "Número de resultados"
+
+#: admin/inc/bpsearch-live-search-settings.php:35
+#, fuzzy
+msgid "results"
+msgstr "resultados"
+
+#: admin/inc/bpsearch-pages-posts-search.php:30
+#, fuzzy
+msgid "Search the following WordPress content and custom post types."
+msgstr ""
+"Pesquise o seguinte conteúdo WordPress e tipos de posts personalizados."
+
+#: admin/inc/bpsearch-pages-posts-search.php:78
+#, fuzzy
+msgid "Meta Data"
+msgstr "Meta Dados"
+
+#: admin/inc/bpsearch-search-results-settings.php:23
+#, fuzzy
+msgid "Overide Default WordPress Search"
+msgstr "Substituir a pesquisa por padrão do WordPress"
+
+#: admin/inc/bpsearch-search-results-settings.php:33
+#, fuzzy
+msgid "Search results page"
+msgstr "Página dos Resultados da Pesquisa"
+
+#: admin/inc/bpsearch-search-results-settings.php:56
+#, fuzzy
+msgid "Assign custom search results page."
+msgstr "Atribuir página de resultados de pesquisa personalizada."
+
+#: admin/inc/bpsearch-welcome-page.php:17
+#, fuzzy
+msgid ""
+"BuddyPress search allows you to search your community elements along with "
+"WordPress Post, Pages, and Custom Post Type. It also offers a widget to "
+"display global search forms."
+msgstr ""
+"A pesquisa BuddyPress permite que você pesquise seus elementos da comunidade "
+"junto com o WordPress Post, Páginas, e Tipo de Post personalizado. Ele "
+"também oferece um widget para exibir formulários de busca global."
+
+#: admin/inc/bpsearch-welcome-page.php:18
+#, fuzzy
+msgid "It also offer widget and shortcode to display global search form."
+msgstr ""
+"Ele também oferece widget e atalhos para exibir o formulário de busca global."
+
+#: admin/inc/bpsearch-welcome-page.php:27
+#, fuzzy
+msgid "Help &amp; Support Resources"
+msgstr "Ajuda &amp; Recursos de apoio"
+
+#: admin/inc/bpsearch-welcome-page.php:28
+#, fuzzy
+msgid ""
+"Here are all the resources you may need to get help from us. Documentation "
+"is usually the best place to start. Should you require help anytime, our "
+"customer care team is available to assist you at the support center."
+msgstr ""
+"Aqui estão todos os recursos que você pode precisar para obter ajuda de nós. "
+"A documentação é geralmente o melhor lugar para começar. Caso você precise "
+"de ajuda a qualquer momento, nossa equipe de atendimento ao cliente está "
+"disponível para auxiliá-lo no centro de suporte."
+
+#: admin/inc/bpsearch-welcome-page.php:34
+#, fuzzy
+msgid "Documentation"
+msgstr "Documentação"
+
+#: admin/inc/bpsearch-welcome-page.php:35
+#, fuzzy
+msgid ""
+"We have prepared an extensive guide on BuddyPress Search to learn all "
+"aspects of the plugin. You will find most of your answers here."
+msgstr ""
+"Preparamos um extenso guia sobre a BuddyPress Search para aprender todos os "
+"aspectos do plugin. Você encontrará a maioria de suas respostas aqui."
+
+#: admin/inc/bpsearch-welcome-page.php:36
+#, fuzzy
+msgid "Read Documentation"
+msgstr "Leia a documentação"
+
+#: admin/inc/bpsearch-welcome-page.php:40
+#, fuzzy
+msgid "Support Center"
+msgstr "Centro de Suporte"
+
+#: admin/inc/bpsearch-welcome-page.php:41
+#, fuzzy
+msgid ""
+"We strive to offer the best customer care via our support center. Once your "
+"theme is activated, you can ask us for help anytime."
+msgstr ""
+"Nós nos esforçamos para oferecer o melhor atendimento ao cliente através de "
+"nosso centro de suporte. Uma vez que seu tema seja ativado, você pode nos "
+"pedir ajuda a qualquer momento."
+
+#: admin/inc/bpsearch-welcome-page.php:42
+#, fuzzy
+msgid "Get Support"
+msgstr "Obter Suporte"
+
+#: admin/inc/bpsearch-welcome-page.php:46
+#, fuzzy
+msgid "Got Feedback?"
+msgstr "Tem feedback?"
+
+#: admin/inc/bpsearch-welcome-page.php:47
+#, fuzzy
+msgid ""
+"We want to hear about your experience with the plugin. We would also love to "
+"hear any suggestions you may for future updates."
+msgstr ""
+"Queremos ouvir sobre sua experiência com o plugin. Também gostaríamos de "
+"ouvir quaisquer sugestões para futuras atualizações."
+
+#: admin/inc/bpsearch-welcome-page.php:48
+#, fuzzy
+msgid "Send Feedback"
+msgstr "Enviar comentários"
+
+#: admin/wbcom/templates/wbcom-license-page.php:5
+#, fuzzy
+msgid "Plugin License Settings"
+msgstr "Configurações de Licença de Plugin"
+
+#: admin/wbcom/templates/wbcom-license-page.php:10
+#: admin/wbcom/templates/wbcom-license-page.php:22
+#, fuzzy
+msgid "Product"
+msgstr "Produto"
+
+#: admin/wbcom/templates/wbcom-license-page.php:11
+#: admin/wbcom/templates/wbcom-license-page.php:23
+#, fuzzy
+msgid "Version"
+msgstr "Versão"
+
+#: admin/wbcom/templates/wbcom-license-page.php:12
+#: admin/wbcom/templates/wbcom-license-page.php:24
+#, fuzzy
+msgid "Key"
+msgstr "Chave"
+
+#: admin/wbcom/templates/wbcom-license-page.php:13
+#: admin/wbcom/templates/wbcom-license-page.php:25
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#: admin/wbcom/templates/wbcom-license-page.php:14
+#: admin/wbcom/templates/wbcom-license-page.php:26
+#, fuzzy
+msgid "Action"
+msgstr "Ação"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:10
+#, fuzzy
+msgid "Paid Addons"
+msgstr "Addons pagos"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:29
+#: admin/wbcom/templates/wbcom-themes-page.php:118
+#: admin/wbcom/templates/wbcom-themes-page.php:139
+#, fuzzy
+msgid "View"
+msgstr "Ver"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:38
+#, fuzzy
+msgid "Free Addons"
+msgstr "Complementos gratuitos"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:44
+#, fuzzy
+msgid "Install"
+msgstr "Instalar"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:48
+#: admin/wbcom/wbcom-admin-settings.php:375
+#, fuzzy
+msgid "Activate"
+msgstr "Ativar"
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:52
+#: admin/wbcom/wbcom-admin-settings.php:376
+#, fuzzy
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: admin/wbcom/templates/wbcom-support-page.php:5
+#: admin/wbcom/wbcom-admin-settings.php:414
+#: admin/wbcom/wbcom-admin-settings.php:415
+#: admin/wbcom/wbcom-admin-settings.php:508 buddypress-search.php:125
+#, fuzzy
+msgid "Support"
+msgstr "Suporte"
+
+#: admin/wbcom/templates/wbcom-support-page.php:7
+#, fuzzy
+msgid "Having any question or issue ?"
+msgstr "Tem alguma pergunta ou problema ?"
+
+#: admin/wbcom/templates/wbcom-support-page.php:9
+#, fuzzy
+msgid ""
+"Our team is here to help you out at anytime. If you have any idea about how "
+"we could improve. You can share access to your site on our helpdesk if it "
+"can help getting faster. There are two ways to in touch with us :"
+msgstr ""
+"Nossa equipe está aqui para ajudá-lo a qualquer momento. Se você tem alguma "
+"idéia de como podemos melhorar. Você pode compartilhar o acesso ao seu site "
+"em nosso helpdesk se ele puder ajudar a ficar mais rápido. Há duas maneiras "
+"de entrar em contato conosco:"
+
+#: admin/wbcom/templates/wbcom-support-page.php:21
+#, fuzzy
+msgid "Tickets Support"
+msgstr "Chamado Técnico"
+
+#: admin/wbcom/templates/wbcom-support-page.php:22
+#, fuzzy
+msgid ""
+"Open a ticket on our helpdesk, we don't guarantee a fast response but within "
+"a week. Except if you've purchased one of our product we'll reply within 24 "
+"hours."
+msgstr ""
+"Abra um pedido de assistência em nosso Serviço de Apoio, não garantimos "
+"resposta imediata. Exceto se você comprou um de nossos produtos, "
+"retornaremos em 24 horas."
+
+#: admin/wbcom/templates/wbcom-support-page.php:26
+#, fuzzy
+msgid "Open a ticket"
+msgstr "Abrir um ticket"
+
+#: admin/wbcom/templates/wbcom-support-page.php:41
+#: admin/wbcom/templates/wbcom-support-page.php:46
+#, fuzzy
+msgid "Contact Us"
+msgstr "Contate-nos"
+
+#: admin/wbcom/templates/wbcom-support-page.php:42
+#, fuzzy
+msgid ""
+"Create a new thread on our plugin page, participation is open to anyone from "
+"all around the world. We'll be there to help as well but can't guarantee any "
+"delay."
+msgstr ""
+"Crie um novo tópico em nossa página de plugins, a participação está aberta a "
+"qualquer pessoa de todo o mundo. Estaremos lá para ajudar também, mas não "
+"podemos garantir nenhum atraso."
+
+#: admin/wbcom/templates/wbcom-themes-page.php:13
+#, fuzzy
+msgid "Reign Theme"
+msgstr "Tema do Reino"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:15
+#, fuzzy
+msgid "Multiple Member Directory Layout"
+msgstr "Layout do Diretório de Membros Múltiplos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:16
+#, fuzzy
+msgid "Multiple Member Header Layout"
+msgstr "Layout de cabeçalho de múltiplos membros"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:17
+#, fuzzy
+msgid "Multiple Group Directory Layout"
+msgstr "Layout de Diretório de Grupos Múltiplos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:18
+#, fuzzy
+msgid "Multiple Group Header Layout"
+msgstr "Layout de Cabeçalhos de Grupos Múltiplos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:19
+#, fuzzy
+msgid "BuddyPress Customization Options"
+msgstr "Opções de personalização BuddyPress"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:20
+#, fuzzy
+msgid "BuddyPress Extra Widgets"
+msgstr "BuddyPress Widgets extras"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:21
+#, fuzzy
+msgid "Inbuilt Social Profile Module"
+msgstr "Módulo de Perfil Social Inbuilt"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:24
+#: admin/wbcom/templates/wbcom-themes-page.php:49
+#: admin/wbcom/templates/wbcom-themes-page.php:72
+#: admin/wbcom/templates/wbcom-themes-page.php:94
+#, fuzzy
+msgid "Purchase"
+msgstr "Comprar"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:25
+#: admin/wbcom/templates/wbcom-themes-page.php:50
+#: admin/wbcom/templates/wbcom-themes-page.php:73
+#: admin/wbcom/templates/wbcom-themes-page.php:95
+#, fuzzy
+msgid "Preview"
+msgstr "Visualização"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:38
+#, fuzzy
+msgid "LearnMate Solution"
+msgstr "Solução LearnMate"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:40
+#, fuzzy
+msgid "Add Review to your course"
+msgstr "Adicione avaliação ao seu curso"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:41
+#, fuzzy
+msgid "Course Coming Soon"
+msgstr "Curso em breve"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:42
+#: admin/wbcom/templates/wbcom-themes-page.php:68
+#, fuzzy
+msgid "Grid And List Layout"
+msgstr "Layout da grade e da lista"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:43
+#, fuzzy
+msgid "Learndash/LifterLMS Extra Widgets"
+msgstr "Ferramentas extras Learndash/LifterLMS"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:44
+#, fuzzy
+msgid "Unparalleled Course Layout"
+msgstr "Layout inigualável do curso"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:45
+#, fuzzy
+msgid "Awesome Learndash/LifterLMS Pages"
+msgstr "Páginas do Awesome Learndash/LifterLMS"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:46
+#, fuzzy
+msgid "Distraction Free Reading"
+msgstr "Leitura sem Distração"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:63
+#, fuzzy
+msgid "StoreMate Solution"
+msgstr "Solução StoreMate"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:65
+#, fuzzy
+msgid "Dokan Extra Widgets"
+msgstr "Ferramentas Extras dokan"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:66
+#, fuzzy
+msgid "Unique Single Product Page Customization"
+msgstr "Personalização exclusiva de uma única página de produto"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:67
+#, fuzzy
+msgid "Awesome WooCommerce Pages"
+msgstr "Fantásticas páginas de WooCommerce"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:69
+#, fuzzy
+msgid "Automated Mega Menu Support"
+msgstr "Suporte Automatizado do Mega Menu"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:86
+#, fuzzy
+msgid "Jobmate Theme"
+msgstr "Tema do colega de trabalho"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:88
+#, fuzzy
+msgid "Simple live searching and filtering"
+msgstr "Busca e filtragem simples ao vivo"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:89
+#, fuzzy
+msgid "Unique Job listing Page"
+msgstr "Página única de listagem de empregos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:90
+#, fuzzy
+msgid "Awesome Resume list Page"
+msgstr "Página de lista de currículos fantásticos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:91
+#, fuzzy
+msgid "Outstanding all job maanger pagesLayout"
+msgstr "Destaque em todas as páginas de trabalho de manutençãoLayout"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:108
+#, fuzzy
+msgid "BuddyX Theme"
+msgstr "Tema BuddyX"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:110
+#, fuzzy
+msgid "Responsive BuddyPress Theme"
+msgstr "Tema Responsive BuddyPress"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:111
+#: admin/wbcom/templates/wbcom-themes-page.php:134
+#, fuzzy
+msgid "Site Ready In One-Click"
+msgstr "Site pronto em um só clique"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:112
+#, fuzzy
+msgid "Members and Groups Layout"
+msgstr "Layout de membros e grupos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:113
+#, fuzzy
+msgid "WooCommerce Ready"
+msgstr "Pronto para o WooCommerce"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:114
+#, fuzzy
+msgid "Supported Muitiple Plugins"
+msgstr "Plugins Muitiple Suportados"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:115
+#: admin/wbcom/templates/wbcom-themes-page.php:136
+#, fuzzy
+msgid "Suitable for All Devices"
+msgstr "Adequado para todos os dispositivos"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:131
+#, fuzzy
+msgid "KnowX Theme"
+msgstr "Tema KnowX"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:133
+#, fuzzy
+msgid "Free WordPress Theme"
+msgstr "Free WordPress Theme"
+
+#: admin/wbcom/templates/wbcom-themes-page.php:135
+#, fuzzy
+msgid "Create Knowledge base"
+msgstr "Criar base de conhecimento"
+
+#: admin/wbcom/wbcom-admin-settings.php:186
+#, fuzzy
+msgid "Custom Font Uploader"
+msgstr "Carregador de fontes personalizado"
+
+#: admin/wbcom/wbcom-admin-settings.php:188
+#, fuzzy
+msgid ""
+"It also allows you to upload your own custom font to your site and use them "
+"using custom css."
+msgstr ""
+"Também permite que você carregue sua própria fonte personalizada em seu site "
+"e a utilize usando css personalizados."
+
+#: admin/wbcom/wbcom-admin-settings.php:194
+#, fuzzy
+msgid "BuddyPress Create Group Type"
+msgstr "BuddyPress Criar tipo de grupo"
+
+#: admin/wbcom/wbcom-admin-settings.php:196
+#, fuzzy
+msgid "It will help to create group type for BuddyPress Groups."
+msgstr "Ele ajudará a criar o tipo de grupo para os Grupos BuddyPress."
+
+#: admin/wbcom/wbcom-admin-settings.php:202
+#, fuzzy
+msgid "BuddyPress Member Reviews"
+msgstr "BuddyPress Revisão dos Membros"
+
+#: admin/wbcom/wbcom-admin-settings.php:204
+#, fuzzy
+msgid ""
+"This plugin allows only site members to add reviews to the buddypress "
+"members on the site and even rate the member’s profile out of 5 points with "
+"multiple review criteria."
+msgstr ""
+"Este plugin permite apenas que os membros do site adicionem revisões aos "
+"membros do buddypress no site e até mesmo classifique o perfil do membro em "
+"5 pontos com múltiplos critérios de revisão."
+
+#: admin/wbcom/wbcom-admin-settings.php:210
+#, fuzzy
+msgid "BuddyPress Group Reviews"
+msgstr "Revisões do BuddyPress Group"
+
+#: admin/wbcom/wbcom-admin-settings.php:212
+#, fuzzy
+msgid ""
+"This plugin allows the BuddyPress Members to give reviews to the BuddyPress "
+"groups on the site. The review form allows the users to give text review, "
+"even rate the group on the basis of multiple criterias."
+msgstr ""
+"Este plugin permite que os membros da BuddyPress dêem análises para os "
+"grupos BuddyPress no site. O formulário de revisão permite que os usuários "
+"dêem uma revisão de texto, classificando até mesmo o grupo com base em "
+"múltiplos critérios."
+
+#: admin/wbcom/wbcom-admin-settings.php:230
+#, fuzzy
+msgid "BuddyPress Moderation Pro"
+msgstr "BuddyPress Moderation Pro"
+
+#: admin/wbcom/wbcom-admin-settings.php:231
+#, fuzzy
+msgid ""
+"BuddyPress Community Moderation offers a solution for site owners to keep "
+"their communities straight. With community policing strategy, members of the "
+"community have an option for moderation sitewide by attaching flags to "
+"content created within the various components."
+msgstr ""
+"A BuddyPress Community Moderation oferece uma solução para que os "
+"proprietários de sites mantenham suas comunidades diretas. Com a estratégia "
+"de policiamento da comunidade, os membros da comunidade têm uma opção de "
+"moderação em todo o site, anexando bandeiras ao conteúdo criado dentro dos "
+"vários componentes."
+
+#: admin/wbcom/wbcom-admin-settings.php:236
+#, fuzzy
+msgid "BuddyPress Polls"
+msgstr "Sondagens BuddyPress"
+
+#: admin/wbcom/wbcom-admin-settings.php:237
+#, fuzzy
+msgid ""
+"Use BuddyPress Polls plugin to create polls inside the activity, let your "
+"user response to your polls. Members can create pools like activities, "
+"easily votes on them."
+msgstr ""
+"Use o plugin BuddyPress Polls para criar enquetes dentro da atividade, deixe "
+"seu usuário responder às suas enquetes. Os membros podem criar pools como "
+"atividades, votando facilmente neles."
+
+#: admin/wbcom/wbcom-admin-settings.php:242
+#, fuzzy
+msgid "BuddyPress Hashtags"
+msgstr "BuddyPress Hashtags"
+
+#: admin/wbcom/wbcom-admin-settings.php:243
+#, fuzzy
+msgid ""
+"Allows members to use hashtags in BuddyPress activities and bbPress topics "
+"and ready with widgets."
+msgstr ""
+"Permite aos membros usar hashtags em atividades do BuddyPress e tópicos "
+"bbPress e pronto com widgets."
+
+#: admin/wbcom/wbcom-admin-settings.php:248
+#, fuzzy
+msgid "BuddyPress Profanity"
+msgstr "BuddyPress Profanity"
+
+#: admin/wbcom/wbcom-admin-settings.php:249
+#, fuzzy
+msgid ""
+"Use BuddyPress Profanity plugin to censor content in your community! Easily "
+"Censor all the unwanted words in activities, private messages contents by "
+"specifying a list of keywords to be filtered."
+msgstr ""
+"Use o plugin BuddyPress Profanity para censurar o conteúdo em sua "
+"comunidade! Censorize facilmente todas as palavras indesejadas em "
+"atividades, conteúdo de mensagens privadas especificando uma lista de "
+"palavras-chave a serem filtradas."
+
+#: admin/wbcom/wbcom-admin-settings.php:254
+#, fuzzy
+msgid "BuddyPress Private Community Pro"
+msgstr "BuddyPress Private Community Pro"
+
+#: admin/wbcom/wbcom-admin-settings.php:255
+#, fuzzy
+msgid ""
+"This plugin offers a lockdown for BuddyPress Component and will ask users to "
+"log in go further to check profile or any other protected details."
+msgstr ""
+"Este plugin oferece um bloqueio para o componente BuddyPress e solicitará "
+"aos usuários que façam o login para verificar o perfil ou qualquer outro "
+"detalhe protegido."
+
+#: admin/wbcom/wbcom-admin-settings.php:260
+#, fuzzy
+msgid "BuddyPress Profile Pro"
+msgstr "BuddyPress Profile Pro"
+
+#: admin/wbcom/wbcom-admin-settings.php:261
+#, fuzzy
+msgid ""
+"This plugin gives you the power to extend BuddyPress Profiles with repeater "
+"fields and groups. You can easily add multiple field groups and display them "
+"at member’s profile."
+msgstr ""
+"Este plugin dá a você o poder de estender BuddyPress Profiles com campos e "
+"grupos repetidores. Você pode facilmente adicionar vários grupos de campos e "
+"exibi-los no perfil do membro."
+
+#: admin/wbcom/wbcom-admin-settings.php:266
+#, fuzzy
+msgid "BuddyPress Sticky Post"
+msgstr "BuddyPress Posto pegajoso"
+
+#: admin/wbcom/wbcom-admin-settings.php:267
+#, fuzzy
+msgid ""
+"This will make it easier for the site administrator to make the pinned "
+"activity item recognized first by the community whenever they visit the site."
+msgstr ""
+"Isto tornará mais fácil para o administrador do site fazer com que o item de "
+"atividade afixado seja reconhecido primeiro pela comunidade sempre que "
+"visitar o site."
+
+#: admin/wbcom/wbcom-admin-settings.php:272
+#, fuzzy
+msgid "BuddyPress Auto Friends"
+msgstr "BuddyPress Auto Friends"
+
+#: admin/wbcom/wbcom-admin-settings.php:273
+#, fuzzy
+msgid ""
+"Allow the site admin to select global friends for all his members with "
+"BuddyPress Auto friends plugin."
+msgstr ""
+"Permitir ao administrador do site selecionar amigos globais para todos os "
+"seus membros com o plugin BuddyPress Auto friends."
+
+#: admin/wbcom/wbcom-admin-settings.php:278
+#, fuzzy
+msgid "BuddyPress Quotes"
+msgstr "Citações BuddyPress"
+
+#: admin/wbcom/wbcom-admin-settings.php:279
+#, fuzzy
+msgid ""
+"BuddyPress quotes plugin comes with the feature to let users post their "
+"activity updates with interactive backgrounds selection such as colors and "
+"images set by the site administrator, so they can tell a more expressive "
+"story."
+msgstr ""
+"BuddyPress cita plugin vem com o recurso de deixar os usuários postar suas "
+"atualizações de atividades com seleção de fundos interativos, como cores e "
+"imagens definidas pelo administrador do site, para que eles possam contar "
+"uma história mais expressiva."
+
+#: admin/wbcom/wbcom-admin-settings.php:398
+#: admin/wbcom/wbcom-admin-settings.php:399
+#: admin/wbcom/wbcom-admin-settings.php:496
+#, fuzzy
+msgid "Our Plugins"
+msgstr "Nossos plugins"
+
+#: admin/wbcom/wbcom-admin-settings.php:406
+#: admin/wbcom/wbcom-admin-settings.php:407
+#: admin/wbcom/wbcom-admin-settings.php:502
+#, fuzzy
+msgid "Our Themes"
+msgstr "Outros temas"
+
+#: admin/wbcom/wbcom-admin-settings.php:490 buddypress-search.php:124
+#, fuzzy
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/wbcom/wbcom-paid-plugin-settings.php:31
+#: admin/wbcom/wbcom-paid-plugin-settings.php:32
+#: admin/wbcom/wbcom-paid-plugin-settings.php:49
+#, fuzzy
+msgid "License"
+msgstr "Licença"
+
+#: buddypress-search.php:163
+#, fuzzy
+msgid " BuddyPress Search"
+msgstr " Busca BuddyPress"
+
+#: buddypress-search.php:164
+#, fuzzy
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: buddypress-search.php:166
+#, fuzzy, php-format
+msgid "%1$s is ineffective now as it requires %2$s to be installed and active."
+msgstr "%1$s é ineficaz agora, pois requer %2$s para ser instalado e ativado.."
+
+#: includes/buddypress-search-functions.php:16
+#: public/class-buddypress-search-members.php:356
+#, fuzzy
+msgid "User Meta"
+msgstr "User Meta"
+
+#: includes/buddypress-search-functions.php:17
+#: public/class-buddypress-search-members.php:354
+#, fuzzy
+msgid "Display Name"
+msgstr "Nome de Exibição"
+
+#: includes/buddypress-search-functions.php:18
+#, fuzzy
+msgid "User Email"
+msgstr "E-mail do usuário"
+
+#: includes/buddypress-search-functions.php:19
+#, fuzzy
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: includes/buddypress-search-functions.php:468
+#, fuzzy
+msgid "Blog Posts"
+msgstr "Postagens no blog"
+
+#: includes/buddypress-search-functions.php:469
+#, fuzzy
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/buddypress-search-functions.php:470
+#, fuzzy
+msgid "Post Comments"
+msgstr "Comentários do Post"
+
+#: includes/buddypress-search-functions.php:476
+#, fuzzy
+msgid "Forums"
+msgstr "Fóruns"
+
+#: includes/buddypress-search-functions.php:477
+#, fuzzy
+msgid "Forum Discussions"
+msgstr "Fórum de Discussões"
+
+#: includes/buddypress-search-functions.php:478
+#, fuzzy
+msgid "Forum Replies"
+msgstr "Respostas do Fórum"
+
+#: includes/buddypress-search-functions.php:482
+#, fuzzy
+msgid "Groups"
+msgstr "Grupos"
+
+#: includes/buddypress-search-functions.php:483
+#, fuzzy
+msgid "Activity"
+msgstr "Atividade"
+
+#: includes/buddypress-search-functions.php:484
+#, fuzzy
+msgid "Messages"
+msgstr "Mensagens"
+
+#: includes/buddypress-search-functions.php:496
+#, fuzzy
+msgid "Activity Comments"
+msgstr "Comentários de postagens"
+
+#. translators: %s:
+#: includes/buddypress-search-functions.php:526
+#, fuzzy, php-format
+msgid "Viewing %1$d - %2$d of %3$d results"
+msgstr "Visualizando %1$d - %2$d de %3$d resultados"
+
+#: public/class-buddypress-search-members.php:350
+#, fuzzy
+msgid "Account"
+msgstr "Conta"
+
+#: public/class-buddypress-search-members.php:353
+#, fuzzy
+msgid "Username/Login"
+msgstr "Usuário/Login"
+
+#: public/class-buddypress-search-members.php:355
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: public/class-buddypress-search-posts.php:184
+#, fuzzy, php-format
+msgid "%s Meta"
+msgstr "%s Meta"
+
+#: public/class-buddypress-search-public.php:149
+#, fuzzy
+msgid "Loading Suggestions"
+msgstr "Carregando Sugestões"
+
+#: public/class-buddypress-search-public.php:384
+#, fuzzy
+msgid "View all"
+msgstr "Ver tudo"
+
+#. translators: %s: search term
+#: public/class-buddypress-search-public.php:396
+#, fuzzy, php-format
+msgid "Nothing found for '%s'"
+msgstr "Nada foi encontrado para '%s'"
+
+#: public/class-buddypress-search-public.php:550
+#, fuzzy, php-format
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "resultado %d"
+msgstr[1] "%d resultados"
+
+#: public/class-buddypress-search-public.php:566
+#, fuzzy, php-format
+msgid "View (%d) more"
+msgstr "Ver (%d) mais"
+
+#: public/class-buddypress-search-public.php:781
+#, fuzzy
+msgid "All Results"
+msgstr "Todos os Resultados"
+
+#: public/class-buddypress-search-types.php:49
+#: public/class-buddypress-search-types.php:58
+#, fuzzy
+msgid "Cheatin' huh?"
+msgstr "Trapaceando, hein?"
+
+#: public/class-buddypress-search-widget.php:27
+#, fuzzy
+msgid "BuddyPress Search widget"
+msgstr "AmigoPress widget de busca"
+
+#: public/class-buddypress-search-widget.php:31
+#, fuzzy
+msgctxt "widget name"
+msgid "(BuddyPress) Search"
+msgstr "(BuddyPress) Busca"
+
+#: public/class-buddypress-search-widget.php:47
+#: public/class-buddypress-search-widget.php:98
+#: templates/buddypress-search/search-form.php:34
+#, fuzzy
+msgid "Search"
+msgstr "Pesquisar"
+
+#: public/class-buddypress-search-widget.php:106
+#, fuzzy
+msgid "Title:"
+msgstr "Título:"
+
+#: templates/buddypress-search/loop/activity-comment.php:19
+#: templates/buddypress-search/loop/activity.php:21
+#, fuzzy
+msgid "ago"
+msgstr "atrás"
+
+#. translators: Photos count.
+#: templates/buddypress-search/loop/albums-ajax.php:36
+#: templates/buddypress-search/loop/albums.php:36
+#, fuzzy, php-format
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] "%s foto"
+msgstr[1] "%s fotos"
+
+#. translators: Photos count.
+#: templates/buddypress-search/loop/albums-ajax.php:48
+#: templates/buddypress-search/loop/albums.php:48
+#, fuzzy, php-format
+msgid "%s video"
+msgid_plural "%s videos"
+msgstr[0] "%s vídeo"
+msgstr[1] "%s vídeos"
+
+#: templates/buddypress-search/loop/albums-ajax.php:62
+#: templates/buddypress-search/loop/albums.php:62
+#: templates/buddypress-search/loop/document-ajax.php:54
+#: templates/buddypress-search/loop/document.php:58
+#: templates/buddypress-search/loop/folder-ajax.php:25
+#: templates/buddypress-search/loop/folder.php:26
+#: templates/buddypress-search/loop/photos-ajax.php:50
+#: templates/buddypress-search/loop/photos.php:52
+#: templates/buddypress-search/loop/videos-ajax.php:50
+#: templates/buddypress-search/loop/videos.php:52
+#, fuzzy
+msgid "by "
+msgstr "por "
+
+#: templates/buddypress-search/loop/albums-ajax.php:100
+#: templates/buddypress-search/loop/albums.php:100
+#: templates/buddypress-search/loop/document-ajax.php:95
+#: templates/buddypress-search/loop/document.php:99
+#: templates/buddypress-search/loop/folder-ajax.php:71
+#: templates/buddypress-search/loop/folder.php:71
+#: templates/buddypress-search/loop/photos-ajax.php:90
+#: templates/buddypress-search/loop/photos.php:92
+#: templates/buddypress-search/loop/videos-ajax.php:90
+#: templates/buddypress-search/loop/videos.php:92
+#, fuzzy
+msgid "Based on group privacy"
+msgstr "Baseado na privacidade do grupo"
+
+#. translators: %s: the number of forum topic count
+#. translators: %s: the number of topic count
+#. translators: %s: the number of total topic count
+#: templates/buddypress-search/loop/forum-ajax.php:21
+#: templates/buddypress-search/loop/forum.php:26
+#: templates/buddypress-search/loop/sfwd-lessons-ajax.php:18
+#: templates/buddypress-search/loop/sfwd-lessons.php:22
+#, fuzzy, php-format
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] "%d tópico"
+msgstr[1] "%d tópicos"
+
+#. translators: %s: the number of forum reply count
+#. translators: %s: the number of lesson count
+#: templates/buddypress-search/loop/forum.php:33
+#: templates/buddypress-search/loop/topic-ajax.php:20
+#: templates/buddypress-search/loop/topic.php:29
+#, fuzzy, php-format
+msgid "%d reply"
+msgid_plural "%d replies"
+msgstr[0] "%d resposta"
+msgstr[1] "%d respostas"
+
+#: templates/buddypress-search/loop/message-ajax.php:9
+#, fuzzy
+msgid "From:"
+msgstr "De:"
+
+#: templates/buddypress-search/loop/message.php:5
+#, fuzzy
+msgid "Conversation between"
+msgstr "Conversação entre"
+
+#: templates/buddypress-search/loop/message.php:15
+#, fuzzy
+msgid "and you."
+msgstr "e você."
+
+#: templates/buddypress-search/loop/message.php:20
+#, fuzzy
+msgid "View Conversation"
+msgstr "Ver conversa"
+
+#: templates/buddypress-search/loop/post.php:16
+#: templates/buddypress-search/loop/product.php:20
+#: templates/buddypress-search/loop/sfwd-courses.php:32
+#: templates/buddypress-search/loop/sfwd-lessons.php:16
+#: templates/buddypress-search/loop/sfwd-topic.php:16
+#, fuzzy, php-format
+msgid "Permalink to %s"
+msgstr "Link permanente para %s"
+
+#: templates/buddypress-search/loop/post.php:33
+#, fuzzy, php-format
+msgid "By %s"
+msgstr "Por %s"
+
+#: templates/buddypress-search/loop/product.php:28
+#, fuzzy
+msgid "Sale!"
+msgstr "Oferta!"
+
+#. translators: %s: the number of total lesson count
+#: templates/buddypress-search/loop/sfwd-courses-ajax.php:17
+#, fuzzy, php-format
+msgid "%d lesson"
+msgid_plural "%d lessons"
+msgstr[0] "%d lição"
+msgstr[1] "%d lições"
+
+#. translators: %s: the number of lesson count
+#: templates/buddypress-search/loop/sfwd-courses.php:25
+#, fuzzy, php-format
+msgid "%s lesson"
+msgid_plural "%s lessons"
+msgstr[0] "%s lição"
+msgstr[1] "%s lições"
+
+#. translators: %s: the number of quizz count
+#. translators: %s: the number of total quizzes count
+#: templates/buddypress-search/loop/sfwd-topic-ajax.php:17
+#: templates/buddypress-search/loop/sfwd-topic.php:22
+#, fuzzy, php-format
+msgid "%d quiz"
+msgid_plural "%d quizzes"
+msgstr[0] "%d questionário"
+msgstr[1] "%d questionários"
+
+#: templates/buddypress-search/loop/topic-ajax.php:33
+#: templates/buddypress-search/loop/topic.php:46
+#, fuzzy
+msgid "Tags:"
+msgstr "Tags:"
+
+#: templates/buddypress-search/no-results-groups.php:1
+#, fuzzy
+msgid "No groups found!"
+msgstr "Nenhum grupo encontrado!"
+
+#: templates/buddypress-search/no-results.php:3
+#, fuzzy
+msgid "Sorry, there were no results found."
+msgstr "Desculpe, não foram encontrados resultados."
+
+#: templates/buddypress-search/results-page.php:12
+#, fuzzy
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+#: templates/buddypress-search/results-page.php:14
+#, fuzzy, php-format
+msgid "Showing results for '%s'"
+msgstr "Mostrando resultados para '%s'"
+
+#: templates/buddypress-search/results-page.php:17
+#, fuzzy, php-format
+msgid "No results for '%s'"
+msgstr "Sem resultados para: %s"
+
+#: templates/buddypress-search/search-form.php:29
+#, fuzzy
+msgid "Search Network&hellip;"
+msgstr "Pesquisar na rede&hellip;"
+
+#: templates/buddypress-search/search-form.php:29
+#, fuzzy
+msgid "Try different keywords&hellip;"
+msgstr "Experimente palavras-chave diferentes&hellip;"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Wbcom Designs - BuddyPress Search"
+msgstr "Wbcom Designs - Busca BuddyPress"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://wbcomdesigns.com/downloads/buddypress-search/"
+msgstr "https://wbcomdesigns.com/downloads/buddypress-search/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"BuddyPress search allows you to search your community elements along with "
+"WordPress Post, Pages and Custom Post Type."
+msgstr ""
+"A pesquisa BuddyPress permite que você pesquise seus elementos da comunidade "
+"junto com o WordPress Post, Páginas e Tipo de Post personalizado."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "wbcomdesigns"
+msgstr "wbcomdesigns"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://wbcomdesigns.com/"
+msgstr "https://wbcomdesigns.com/"

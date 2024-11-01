@@ -1,0 +1,1145 @@
+# Copyright (C) 2022
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-03 14:35:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-buddypress-search-admin.php:128
+msgid "WB Plugins"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:129
+msgid "General"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:131
+msgid "BuddyPress Search Setting Page"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:131
+#: admin/class-buddypress-search-admin.php:155
+#: admin/wbcom/templates/wbcom-license-page.php:12
+msgid "BuddyPress Search"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:156
+#: admin/wbcom/templates/wbcom-license-page.php:13
+msgid "Version %s"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:165
+msgid "Welcome"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:166
+msgid "Search Components"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:167
+msgid "Enable Post/Pages"
+msgstr ""
+
+#: admin/class-buddypress-search-admin.php:168
+msgid "Live Search Settings"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:36
+msgid "Search the following BuddyPress components."
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:48
+msgid "Enable Search Components"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:51
+msgid "Search in buddypress activities?"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:55
+msgid "Search in buddypress groups?"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:59
+msgid "Search in public groups?"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:63
+msgid "Search in private groups?"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:67
+msgid "Search in hidden groups?"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:71
+#: includes/buddypress-search-functions.php:579
+msgid "Members"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:78
+msgid "WordPress User Fields"
+msgstr ""
+
+#: admin/inc/bpsearch-bp-search.php:96
+msgid "Xprofile Fields"
+msgstr ""
+
+#: admin/inc/bpsearch-live-search-settings.php:36
+msgid "Enable Autocomplete"
+msgstr ""
+
+#: admin/inc/bpsearch-live-search-settings.php:45
+msgid "Number of Results"
+msgstr ""
+
+#: admin/inc/bpsearch-live-search-settings.php:48
+msgid "results"
+msgstr ""
+
+#: admin/inc/bpsearch-pages-posts-search.php:30
+msgid "Search the following WordPress content and custom post types."
+msgstr ""
+
+#: admin/inc/bpsearch-pages-posts-search.php:84
+msgid "Meta Data"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:22
+msgid ""
+"BuddyPress search allows you to search your community elements along with "
+"WordPress Post, Pages, and Custom Post Type. It also offers a widget to "
+"display global search forms."
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:27
+msgid "Help &amp; Support Resources"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:28
+msgid ""
+"Here are all the resources you may need to get help from us. Documentation "
+"is usually the best place to start. Should you require help anytime, our "
+"customer care team is available to assist you at the support center."
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:33
+msgid "Documentation"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:34
+msgid ""
+"We have prepared an extensive guide on BuddyPress Search to learn all "
+"aspects of the plugin. You will find most of your answers here."
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:35
+msgid "Read Documentation"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:41
+msgid "Support Center"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:42
+msgid ""
+"We strive to offer the best customer care via our support center. Once your "
+"theme is activated, you can ask us for help anytime."
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:43
+msgid "Get Support"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:48
+msgid "Got Feedback?"
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:49
+msgid ""
+"We want to hear about your experience with the plugin. We would also love "
+"to hear any suggestions you may for future updates."
+msgstr ""
+
+#: admin/inc/bpsearch-welcome-page.php:50
+msgid "Send Feedback"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:18
+msgid "Plugin License"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:24
+#: admin/wbcom/templates/wbcom-license-page.php:36
+msgid "Product"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:25
+#: admin/wbcom/templates/wbcom-license-page.php:37
+msgid "Version"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:26
+#: admin/wbcom/templates/wbcom-license-page.php:38
+msgid "Key"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:27
+#: admin/wbcom/templates/wbcom-license-page.php:39
+msgid "Status"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:28
+#: admin/wbcom/templates/wbcom-license-page.php:40
+msgid "Action"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:12
+#: admin/wbcom/wbcom-admin-settings.php:276
+msgid "Themes & Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:20
+msgid "Paid Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:21
+msgid "Free Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:22
+msgid "LearnDash Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:23
+#: admin/wbcom/templates/wbcom-plugins-page.php:357
+#: admin/wbcom/wbcom-admin-settings.php:191
+#: admin/wbcom/wbcom-admin-settings.php:192
+msgid "Our Themes"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:25
+#: admin/wbcom/templates/wbcom-plugins-page.php:295
+#: admin/wbcom/templates/wbcom-plugins-page.php:420
+msgid "View More Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:33
+msgid "BuddyPress Moderation Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:34
+msgid ""
+"BuddyPress Moderation solution with advanced features to give you complete "
+"control over your community and keep it secure with automatic moderation "
+"and limitations, and more."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:36
+#: admin/wbcom/templates/wbcom-plugins-page.php:49
+#: admin/wbcom/templates/wbcom-plugins-page.php:62
+#: admin/wbcom/templates/wbcom-plugins-page.php:75
+#: admin/wbcom/templates/wbcom-plugins-page.php:88
+#: admin/wbcom/templates/wbcom-plugins-page.php:101
+#: admin/wbcom/templates/wbcom-plugins-page.php:114
+#: admin/wbcom/templates/wbcom-plugins-page.php:127
+#: admin/wbcom/templates/wbcom-plugins-page.php:140
+#: admin/wbcom/templates/wbcom-plugins-page.php:153
+#: admin/wbcom/templates/wbcom-plugins-page.php:166
+#: admin/wbcom/templates/wbcom-plugins-page.php:179
+#: admin/wbcom/templates/wbcom-plugins-page.php:192
+#: admin/wbcom/templates/wbcom-plugins-page.php:205
+#: admin/wbcom/templates/wbcom-plugins-page.php:218
+#: admin/wbcom/templates/wbcom-plugins-page.php:231
+#: admin/wbcom/templates/wbcom-plugins-page.php:244
+#: admin/wbcom/templates/wbcom-plugins-page.php:257
+#: admin/wbcom/templates/wbcom-plugins-page.php:270
+#: admin/wbcom/templates/wbcom-plugins-page.php:283
+#: admin/wbcom/templates/wbcom-plugins-page.php:306
+#: admin/wbcom/templates/wbcom-plugins-page.php:319
+#: admin/wbcom/templates/wbcom-plugins-page.php:332
+#: admin/wbcom/templates/wbcom-plugins-page.php:345
+#: admin/wbcom/templates/wbcom-plugins-page.php:369
+#: admin/wbcom/templates/wbcom-plugins-page.php:382
+#: admin/wbcom/templates/wbcom-plugins-page.php:395
+#: admin/wbcom/templates/wbcom-plugins-page.php:408
+#: admin/wbcom/templates/wbcom-plugins-page.php:428
+#: admin/wbcom/templates/wbcom-plugins-page.php:438
+#: admin/wbcom/templates/wbcom-plugins-page.php:448
+#: admin/wbcom/templates/wbcom-plugins-page.php:458
+#: admin/wbcom/templates/wbcom-plugins-page.php:468
+#: admin/wbcom/templates/wbcom-plugins-page.php:478
+#: admin/wbcom/templates/wbcom-plugins-page.php:488
+#: admin/wbcom/templates/wbcom-plugins-page.php:498
+#: admin/wbcom/templates/wbcom-plugins-page.php:508
+#: admin/wbcom/templates/wbcom-plugins-page.php:518
+#: admin/wbcom/templates/wbcom-plugins-page.php:528
+#: admin/wbcom/templates/wbcom-plugins-page.php:538
+msgid "View Details"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:37
+#: admin/wbcom/templates/wbcom-plugins-page.php:50
+#: admin/wbcom/templates/wbcom-plugins-page.php:63
+#: admin/wbcom/templates/wbcom-plugins-page.php:76
+#: admin/wbcom/templates/wbcom-plugins-page.php:89
+#: admin/wbcom/templates/wbcom-plugins-page.php:102
+#: admin/wbcom/templates/wbcom-plugins-page.php:115
+#: admin/wbcom/templates/wbcom-plugins-page.php:128
+#: admin/wbcom/templates/wbcom-plugins-page.php:141
+#: admin/wbcom/templates/wbcom-plugins-page.php:154
+#: admin/wbcom/templates/wbcom-plugins-page.php:167
+#: admin/wbcom/templates/wbcom-plugins-page.php:180
+#: admin/wbcom/templates/wbcom-plugins-page.php:193
+#: admin/wbcom/templates/wbcom-plugins-page.php:206
+#: admin/wbcom/templates/wbcom-plugins-page.php:219
+#: admin/wbcom/templates/wbcom-plugins-page.php:232
+#: admin/wbcom/templates/wbcom-plugins-page.php:245
+#: admin/wbcom/templates/wbcom-plugins-page.php:258
+#: admin/wbcom/templates/wbcom-plugins-page.php:271
+#: admin/wbcom/templates/wbcom-plugins-page.php:284
+#: admin/wbcom/templates/wbcom-plugins-page.php:307
+#: admin/wbcom/templates/wbcom-plugins-page.php:320
+#: admin/wbcom/templates/wbcom-plugins-page.php:333
+#: admin/wbcom/templates/wbcom-plugins-page.php:346
+#: admin/wbcom/templates/wbcom-plugins-page.php:383
+#: admin/wbcom/templates/wbcom-plugins-page.php:439
+#: admin/wbcom/templates/wbcom-plugins-page.php:449
+#: admin/wbcom/templates/wbcom-plugins-page.php:459
+#: admin/wbcom/templates/wbcom-plugins-page.php:469
+#: admin/wbcom/templates/wbcom-plugins-page.php:479
+#: admin/wbcom/templates/wbcom-plugins-page.php:489
+#: admin/wbcom/templates/wbcom-plugins-page.php:499
+#: admin/wbcom/templates/wbcom-plugins-page.php:509
+#: admin/wbcom/templates/wbcom-plugins-page.php:519
+#: admin/wbcom/templates/wbcom-plugins-page.php:529
+#: admin/wbcom/templates/wbcom-plugins-page.php:539
+msgid "Get It Now"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:46
+msgid "BuddyPress Resume Manager"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:47
+msgid ""
+"BuddyPress Resume Manager adds display resume functionality on a user’s "
+"BuddyPress/BuddyBoss Platform Profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:59
+msgid "BuddyPress Polls"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:60
+msgid ""
+"BuddyPress Polls allows your community members to create polls as an "
+"activity, letting your members respond."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:72
+msgid "BuddyPress Private Community Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:73
+msgid ""
+"BuddyPress Private Community Pro offers Privacy control for profiles. It "
+"provides a feature to lockdown BuddyPress Component and asks users to log "
+"in to go further to check the profile or any other protected details."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:85
+msgid "BuddyPress Profile Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:86
+msgid ""
+"BuddyPress Profile Pro gives you the power to extend BuddyPress Profiles "
+"with repeater fields and groups. You can easily add multiple field groups "
+"and display them at a member’s profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:98
+msgid "BuddyPress Check-ins Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:99
+msgid ""
+"BuddyPress Check-ins Pro Plugin allows your members to post check-ins like "
+"other social media platforms, on your website activity stream. Members have "
+"a mashup of their check-ins on their profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:111
+#: admin/wbcom/templates/wbcom-plugins-page.php:425
+msgid "BuddyPress Member Blog"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:112
+msgid ""
+"BuddyPress Member Blog Pro plugin provides each of your site members their "
+"own writing environment with a fantastic user experience."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:124
+msgid "BuddyPress BuddyVendor"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:125
+msgid ""
+"BuddyVendor or BuddyPress Multivendor Marketplace Quickly turn your "
+"BuddyPress community into a social marketplace."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:137
+msgid "BuddyPress Statistics"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:138
+msgid ""
+"BuddyPress Stats plugin creates an activity log of everything that happens "
+"on your BuddyPress powered community site and keeps all counts on the user "
+"profile that displays a range of statistics of your community members."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:150
+msgid "Who viewed my profile"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:151
+msgid ""
+"The Who Viewed My Profile Plugin helps you to know about your profile "
+"visitors. It displays the count of the profile views on the member profile "
+"header."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:163
+msgid "BuddyPress Friend & Follow Suggestion"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:164
+msgid ""
+"BuddyPress Friends and Follow suggestions plugin assists you with improving "
+"your BuddyPress or BuddyBoss Platform-based community."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:176
+msgid "BuddyPress Giphy"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:177
+msgid ""
+"Make your activity stream even more tempting and interesting to attract "
+"members by adding GIFs."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:189
+msgid "Shortcodes for BuddyPress Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:190
+msgid ""
+"Add and Customize the BuddyPress components on any of the WordPress "
+"pages/posts using elementor widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:202
+msgid "BuddyPress Sticky Post"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:203
+msgid ""
+"Make your posts sticky on BuddyPress by pinning site-wide and group "
+"activities on the top of the community wall."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:215
+msgid "BuddyPress Quotes"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:216
+msgid ""
+"Allow BuddyPress users to post content with attractive background colors "
+"and beautiful images."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:228
+msgid "BuddyPress Auto Friends"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:229
+msgid ""
+"The new BuddyPress Automatic Friends plugins makes your new users feel a "
+"little more at home upon signing up to your community."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:241
+msgid "BuddyPress Newsfeed"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:242
+msgid ""
+"Create A Customized Newsfeed Experience Just Like Facebook. By default, "
+"BuddyPress offers separate type of activities for your BuddyPress Activity "
+"Stream."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:254
+msgid "BuddyPress Status"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:255
+msgid ""
+"Allow members to add status on their profile and give their reactions to "
+"all the activity updates."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:267
+msgid "BuddyPress Hashtags"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:268
+msgid ""
+"BuddyPress Hashtags for BuddyPress and bbPress. It allows adding hashtag "
+"links to BuddyPress activity and bbPress topics. "
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:280
+msgid "BuddyPress Profanity"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:281
+msgid ""
+"Specify a list of bad words to control the content in your BuddyPress "
+"community."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:294
+msgid "Extension for LearnDash"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:303
+msgid "LMS Notes"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:304
+msgid ""
+"Learndash Notes will extend the LearnDash functionality to create Notes for "
+"courses, lessons and topics."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:316
+msgid "Learndash wpForo"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:317
+msgid ""
+"Learndash wpForo integration allows you to add a discussion channel for "
+"your learners. Allow you to link your course with multiple forums."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:329
+msgid "LearnDash Dashboard"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:330
+msgid ""
+"LearnDash Dashboard gives the admin, instructors, and students a dashboard "
+"of their own, where they can easily manage anything related to their "
+"courses, lessons, and contact others."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:342
+msgid "PeepSo LearnDash Integration"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:343
+msgid ""
+"Integrate LearnDash with PeepSo to display options for courses inside a "
+"member profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:358
+msgid "View More Themes"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:366
+msgid "Reign BuddyPress Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:367
+msgid ""
+"Create your social network website for the company, school, sports team, or "
+"any niche community using a highly customizable WordPress BuddyPress theme."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:370
+msgid "Get Sandbox"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:379
+msgid "BuddyX Pro Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:380
+msgid ""
+"To build an online community website for all niches with full flexibility, "
+"control, and freedom. No coding is required! Offers unique layouts with "
+"clean code and easy-to-customize options giving you a whole new way to "
+"visualize BuddyPress."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:392
+msgid "BuddyX Free Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:393
+#: admin/wbcom/templates/wbcom-plugins-page.php:446
+msgid ""
+"Allow users to create and manage their to-dos with the relevant category "
+"right from their profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:396
+#: admin/wbcom/templates/wbcom-plugins-page.php:429
+msgid "Get Pro"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:405
+msgid "KnowX Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:406
+msgid ""
+"A Free WordPress Knowledge base Theme. KnowX helps you set up a Knowledge "
+"Base in WordPress in less time than it takes to brew a coffee."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:409
+msgid "Get Demo"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:419
+msgid "Our Free Extension"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:426
+msgid ""
+"BuddyPress Member Blog is a free plugin that allows users to create/manage "
+"their blog/posts from the profile."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:435
+msgid "BuddyPress Ads"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:436
+msgid ""
+"Integrate your BuddyPress community to provide a smooth customer experience "
+"and increase site engagement."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:445
+msgid "BuddyPress User Todo List"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:455
+msgid "BuddyPress Job Manager"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:456
+msgid "Create specific tabs in employer’s and candidate’s profiles on BuddyPress."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:465
+msgid "BuddyPress Member Reviews"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:466
+msgid ""
+"Allow members to provide their ratings and reviews to other members’ "
+"profiles based on multiple criteria."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:475
+msgid "BuddyPress Birthday Widget"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:476
+msgid "Display the upcoming birthdays of your BuddyPress community members."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:485
+msgid "reCaptcha for BuddyPress"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:486
+msgid ""
+"Buddypress reCaptcha is the best solution that provides an all-in-one "
+"captcha for  Buddypress, WordPress, and woo-commerce."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:495
+msgid "BuddyPress WooCommerce Integration"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:496
+msgid ""
+"BuddyWoo Integration Plugin will help to integrate WooCommerce with "
+"Buddypress."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:505
+msgid "BuddyPress Member Export Import"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:506
+msgid ""
+"Easily import/export your BuddyPress members. Small but an important "
+"features."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:515
+msgid "BuddyPress Activity Bump"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:516
+msgid ""
+"ump the most recent activity on the top of newsfeed in your BuddyPress "
+"website."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:525
+msgid "Shortcodes for BuddyPress"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:526
+msgid ""
+"Use shortcodes to display activity streams, members, group listings, and "
+"user notifications on any post."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:535
+msgid "BuddyPress Create Group Type"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:536
+msgid ""
+"Create group types on BuddyPress based on the interest areas of your "
+"community members."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:12
+msgid "Help & Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:17
+msgid "How can we help you?"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:18
+msgid ""
+"Our team is here to help you out at anytime. If you have any idea about how "
+"we could improve. You can share access to your site on our helpdesk if it "
+"can help getting faster."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:27
+msgid "Tickets Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:28
+msgid ""
+"Open a ticket on our helpdesk, we don't guarantee a fast response but "
+"within a week. Except if you've purchased one of our product we'll reply "
+"within 24 hours."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:31
+msgid "Open a ticket"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:44
+#: admin/wbcom/templates/wbcom-support-page.php:48
+msgid "Contact Us"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:45
+msgid ""
+"Create a new thread on our plugin page, participation is open to anyone "
+"from all around the world. We'll be there to help as well but can't "
+"guarantee any delay."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:159
+msgid "Activate"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:160
+msgid "Deactivate"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:183
+#: admin/wbcom/wbcom-admin-settings.php:184
+msgid "Our Plugins"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:199
+#: admin/wbcom/wbcom-admin-settings.php:200
+#: admin/wbcom/wbcom-admin-settings.php:283 buddypress-search.php:125
+msgid "Support"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:270 buddypress-search.php:124
+msgid "Settings"
+msgstr ""
+
+#: admin/wbcom/wbcom-paid-plugin-settings.php:31
+#: admin/wbcom/wbcom-paid-plugin-settings.php:32
+msgid "License"
+msgstr ""
+
+#: buddypress-search.php:166
+msgid " BuddyPress Search"
+msgstr ""
+
+#: buddypress-search.php:167
+msgid "BuddyPress"
+msgstr ""
+
+#: buddypress-search.php:170
+#. translators: %1$s: BuddyPress Search ;  %2$s: BuddyPress
+msgid "%1$s is ineffective now as it requires %2$s to be installed and active."
+msgstr ""
+
+#: includes/buddypress-search-functions.php:26
+#: public/class-buddypress-search-members.php:366
+msgid "User Meta"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:27
+#: public/class-buddypress-search-members.php:364
+msgid "Display Name"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:28
+msgid "User Email"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:29
+msgid "Username"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:576
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:577
+msgid "Pages"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:578
+msgid "Post Comments"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:584
+msgid "Forums"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:585
+msgid "Forum Discussions"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:586
+msgid "Forum Replies"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:590
+msgid "Groups"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:591
+msgid "Activity"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:592
+msgid "Messages"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:605
+msgid "Activity Comments"
+msgstr ""
+
+#: includes/buddypress-search-functions.php:637
+#. translators: %s:
+msgid "Viewing %1$d - %2$d of %3$d results"
+msgstr ""
+
+#: public/class-buddypress-search-members.php:360
+msgid "Account"
+msgstr ""
+
+#: public/class-buddypress-search-members.php:363
+msgid "Username/Login"
+msgstr ""
+
+#: public/class-buddypress-search-members.php:365
+msgid "Email"
+msgstr ""
+
+#: public/class-buddypress-search-posts.php:220
+#. translators: %s: Post Type Name
+msgid "%s Meta"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:159
+msgid "Loading Suggestions"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:402
+msgid "View all"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:414
+#. translators: %s: search term
+msgid "Nothing found for '%s'"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:568
+#. translators: %d: Total Result
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/class-buddypress-search-public.php:585
+#. translators: %1$s: Total Results - Number
+msgid "View (%d) more"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:800
+msgid "All Results"
+msgstr ""
+
+#: public/class-buddypress-search-types.php:46
+#: public/class-buddypress-search-types.php:55
+msgid "Cheatin' huh?"
+msgstr ""
+
+#: public/class-buddypress-search-widget.php:27
+msgid "BuddyPress Search widget"
+msgstr ""
+
+#: public/class-buddypress-search-widget.php:47
+#: public/class-buddypress-search-widget.php:98
+#: templates/buddypress-search/search-form.php:43
+msgid "Search"
+msgstr ""
+
+#: public/class-buddypress-search-widget.php:106
+msgid "Title:"
+msgstr ""
+
+#: templates/buddypress-search/loop/activity-comment.php:28
+#: templates/buddypress-search/loop/activity.php:30
+msgid "ago"
+msgstr ""
+
+#: templates/buddypress-search/loop/albums-ajax.php:36
+#: templates/buddypress-search/loop/albums.php:36
+#. translators: Photos count.
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/albums-ajax.php:48
+#: templates/buddypress-search/loop/albums.php:48
+#. translators: Photos count.
+msgid "%s video"
+msgid_plural "%s videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/albums-ajax.php:62
+#: templates/buddypress-search/loop/albums.php:62
+#: templates/buddypress-search/loop/document-ajax.php:61
+#: templates/buddypress-search/loop/document.php:65
+#: templates/buddypress-search/loop/folder-ajax.php:31
+#: templates/buddypress-search/loop/folder.php:32
+#: templates/buddypress-search/loop/photos-ajax.php:50
+#: templates/buddypress-search/loop/photos.php:52
+#: templates/buddypress-search/loop/videos-ajax.php:50
+#: templates/buddypress-search/loop/videos.php:52
+msgid "by "
+msgstr ""
+
+#: templates/buddypress-search/loop/albums-ajax.php:100
+#: templates/buddypress-search/loop/albums.php:100
+#: templates/buddypress-search/loop/document-ajax.php:102
+#: templates/buddypress-search/loop/document.php:106
+#: templates/buddypress-search/loop/folder-ajax.php:77
+#: templates/buddypress-search/loop/folder.php:77
+#: templates/buddypress-search/loop/photos-ajax.php:90
+#: templates/buddypress-search/loop/photos.php:92
+#: templates/buddypress-search/loop/videos-ajax.php:90
+#: templates/buddypress-search/loop/videos.php:92
+msgid "Based on group privacy"
+msgstr ""
+
+#: templates/buddypress-search/loop/forum-ajax.php:28
+#: templates/buddypress-search/loop/forum.php:33
+#: templates/buddypress-search/loop/sfwd-lessons-ajax.php:27
+#: templates/buddypress-search/loop/sfwd-lessons.php:32
+#. translators: %s: the number of forum topic count
+#. translators: %s: the number of topic count
+#. translators: %s: the number of total topic count
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/forum.php:40
+#: templates/buddypress-search/loop/topic-ajax.php:29
+#: templates/buddypress-search/loop/topic.php:37
+#. translators: %s: the number of forum reply count
+#. translators: %s: the number of lesson count
+#. translators: %s: the number of lesson count
+msgid "%d reply"
+msgid_plural "%d replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/message-ajax.php:19
+msgid "From:"
+msgstr ""
+
+#: templates/buddypress-search/loop/message.php:14
+msgid "Conversation between"
+msgstr ""
+
+#: templates/buddypress-search/loop/message.php:24
+msgid "and you."
+msgstr ""
+
+#: templates/buddypress-search/loop/message.php:28
+msgid "View Conversation"
+msgstr ""
+
+#: templates/buddypress-search/loop/post.php:25
+#: templates/buddypress-search/loop/product.php:30
+#: templates/buddypress-search/loop/sfwd-courses.php:42
+#: templates/buddypress-search/loop/sfwd-lessons.php:26
+#: templates/buddypress-search/loop/sfwd-topic.php:26
+#. translators: %s: title attribute
+#. translators: %s: Title Atttributes
+#. translators: %s: Title Attributes
+#. translators: %s: title attribute
+#. translators: %s: Title Attributes
+msgid "Permalink to %s"
+msgstr ""
+
+#: templates/buddypress-search/loop/post.php:44
+#. translators: %s: author link
+msgid "By %s"
+msgstr ""
+
+#: templates/buddypress-search/loop/product.php:38
+msgid "Sale!"
+msgstr ""
+
+#: templates/buddypress-search/loop/sfwd-courses-ajax.php:26
+#. translators: %s: the number of total lesson count
+msgid "%d lesson"
+msgid_plural "%d lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/sfwd-courses.php:34
+#. translators: %s: the number of lesson count
+msgid "%s lesson"
+msgid_plural "%s lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/sfwd-topic-ajax.php:26
+#: templates/buddypress-search/loop/sfwd-topic.php:32
+#. translators: %s: the number of quizz count
+#. translators: %s: the number of total quizzes count
+msgid "%d quiz"
+msgid_plural "%d quizzes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/buddypress-search/loop/topic-ajax.php:42
+#: templates/buddypress-search/loop/topic.php:54
+msgid "Tags:"
+msgstr ""
+
+#: templates/buddypress-search/no-results-groups.php:16
+msgid "No groups found!"
+msgstr ""
+
+#: templates/buddypress-search/no-results.php:17
+msgid "Sorry, there were no results found."
+msgstr ""
+
+#: templates/buddypress-search/results-page.php:19
+msgid "No results found"
+msgstr ""
+
+#: templates/buddypress-search/results-page.php:22
+#. translators: %s: Get search term
+msgid "Showing results for '%s'"
+msgstr ""
+
+#: templates/buddypress-search/results-page.php:26
+#. translators: %s: Get search term
+msgid "No results for '%s'"
+msgstr ""
+
+#: templates/buddypress-search/search-form.php:18
+msgid "Security check"
+msgstr ""
+
+#: templates/buddypress-search/search-form.php:38
+msgid "Search Network&hellip;"
+msgstr ""
+
+#: templates/buddypress-search/search-form.php:38
+msgid "Try different keywords&hellip;"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:1000
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: public/class-buddypress-search-public.php:1003
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: public/class-buddypress-search-widget.php:31
+msgctxt "widget name"
+msgid "(BuddyPress) Search"
+msgstr ""

@@ -1,0 +1,104 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Global
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Global
+--------------------------------------------------------------*/
+.wbcom-admin-settings-page table.form-table.pages-posts-search-table tr,
+.wbcom-admin-settings-page table.form-table.buddypress-components-table tr {
+	border: 0;
+}
+
+.pages-posts-search-table td.post-type-title,
+.buddypress-components-table td.post-type-title {
+	margin: 0;
+	padding: 0;
+}
+
+.pages-posts-search-table td.post-type-title h3,
+.buddypress-components-table td.post-type-title h3 {
+	text-transform: capitalize;
+	margin-bottom: 5px;
+}
+
+.wbcom-settings-section-options-heading label {
+	text-transform: capitalize;
+}
+
+.nav-tab-wrapper ul li.bp-search a.nav-tab:before {
+	content: "\f179";
+}
+
+.nav-tab-wrapper ul li.pages-posts-search a.nav-tab:before {
+	content: "\f111";
+}
+
+.nav-tab-wrapper ul li.live-search-settings a.nav-tab:before {
+	content: "\f472";
+}
+
+.wbcom-settings-section-options .bp-search-parent-field {
+	margin-bottom: 15px;
+}
+
+.container.wbcom-search-components-section-wrap .wbcom-settings-section-options {
+	overflow: hidden;
+}
+
+.container.wbcom-search-components-section-wrap .bp-search-parent-field,
+.container.wbcom-search-components-section-wrap .bp-search-child-field {
+	margin: 8px 0;
+	float: left;
+	width: 33.33%;
+}
+
+.container.wbcom-search-components-section-wrap .bp-search-parent-field label,
+.container.wbcom-search-components-section-wrap .bp-search-child-field label {
+	display: block;
+	line-height: 1.1;
+	margin-bottom: 10px;
+}
+
+.bp-search-child-field.wbcom-options-components-heading {
+	width: 100%;
+	margin: 0;
+	line-height: 22px;
+}
+
+.wbcom-settings-section-options input#bp_search_number_of_results {
+	width: 200px;
+	border-radius: 7px;
+	box-shadow: none;
+	height: 40px;
+	margin-right: 10px;
+	padding: 8px;
+	border-color: #e0e0e0;
+	background: #fafafa;
+}
+
+.wbcom-settings-section-options-heading.wbcom-pages-posts-search-heading {
+	width: 100%;
+	clear: both;
+	padding-top: 25px !important;
+	overflow: hidden;
+}
+
+.wbcom-settings-section-options-heading.wbcom-pages-posts-search-heading:first-child {
+	padding-top: 0 !important;
+}
+
+@media only screen and (max-width: 689px) {
+
+	.container.wbcom-search-components-section-wrap .bp-search-parent-field,
+	.container.wbcom-search-components-section-wrap .bp-search-child-field {
+		width: 100%;
+	}
+}
+
+.wbcom-wrap .notice.notice-error.is-dismissible.learndash-license-is-dismissible,
+#wpwrap .notice.notice-error {
+	display: none !important;
+}

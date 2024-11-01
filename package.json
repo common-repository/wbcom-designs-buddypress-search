@@ -1,0 +1,22 @@
+{
+  "name": "buddypress-search",
+  "version": "1.0.0",
+  "url": "https://github.com/wbcomdesigns/buddypress-search",
+  "license": "GPL-2.0+",
+  "description": "BuddyPress search allows your to search your community elements along with WordPress Post, Pages and Custom Post Type.",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-wp-i18n": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbcomdesigns/buddypress-search"
+  },
+  "dependencies": {
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
